@@ -9,6 +9,7 @@ export default class App extends Component {
       <div className="container">
         <NavigationComponent />
         <LocationListComponent />
+
         <GreetingListComponent />
       </div>
     );

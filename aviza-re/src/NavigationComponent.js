@@ -4,7 +4,7 @@ export default class NavigationComponent extends Component {
   render() {
     return (
       <div>
-        <h1>Locations</h1>
+        <h1>Greetings App</h1>
       </div>
     );
   }

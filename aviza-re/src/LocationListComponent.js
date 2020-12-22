@@ -24,7 +24,7 @@ export default class LocationListComponent extends Component {
   render() {
     return (
       <div className="container">
-        <h3>Products</h3>
+        <h3>Locations</h3>
         <div className="container">
           <table className="table">
             <thead>
